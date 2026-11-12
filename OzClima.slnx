@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="OzClima.Api/OzClima.Api.csproj" />
+  <Project Path="OzClima.Tests/OzClima.Tests.csproj" />
+</Solution>

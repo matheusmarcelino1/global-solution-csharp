@@ -1,0 +1,46 @@
+
+# Build .NET
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.rsuser
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# Testes e cobertura
+**/TestResults/
+coverage/
+coverage.cobertura.xml
+*.coverage
+*.coveragexml
+
+# Bancos SQLite locais
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# Segredos e configurações locais
+.env
+.env.*
+!.env.example
+**/appsettings.Development.json
+**/appsettings.Local.json
+**/secrets.json
+
+# Arquivos temporários
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
