@@ -206,9 +206,6 @@ Projeto desenvolvido como parte da Global Solution da FIAP, com finalidade educa
 
 ## 14. Briefing — Global Solution 2026.2
 
-O briefing oficial do projeto OZClima será disponibilizado
-nesta seção após seu preenchimento e validação pela equipe.
-
 **Status:** Pendente de preenchimento pelo responsável do grupo.
 
 ### Documento do briefing
