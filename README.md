@@ -85,8 +85,8 @@ O projeto utiliza injeção de dependência para reduzir o acoplamento entre os 
 Clone o repositório e acesse a pasta da solução:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd OzClima
+git clone https://github.com/matheusmarcelino1/global-solution-csharp.git
+cd global-solution-csharp
 ```
 
 Restaure as dependências:
@@ -211,5 +211,3 @@ Projeto desenvolvido como parte da Global Solution da FIAP, com finalidade educa
 
 
 <img width="1582" height="511" alt="image" src="https://github.com/user-attachments/assets/30ea4db0-62c8-4d22-934f-36152d1ff065" />
-
-
