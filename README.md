@@ -211,3 +211,28 @@ Projeto desenvolvido como parte da Global Solution da FIAP, com finalidade educa
 
 
 <img width="1582" height="511" alt="image" src="https://github.com/user-attachments/assets/30ea4db0-62c8-4d22-934f-36152d1ff065" />
+
+---
+
+## Evidências da aplicação
+
+As imagens abaixo demonstram o funcionamento da API OZClima,
+incluindo os endpoints REST, o cálculo do Humidex,
+a geração automática de alertas e os testes automatizados.
+
+### 1. Documentação da API — Swagger
+
+![Swagger](docs/evidencias/01-swagger.png)
+
+### 2. Registro de leitura climática — Humidex
+
+![Leitura climática](docs/evidencias/02-humidex.png)
+
+### 3. Geração automática de alertas
+
+![Alertas automáticos](docs/evidencias/03-alertas.png)
+
+### 4. Testes automatizados — xUnit
+
+![75 testes aprovados](docs/evidencias/04-testes.png)
+
