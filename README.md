@@ -206,10 +206,10 @@ Projeto desenvolvido como parte da Global Solution da FIAP, com finalidade educa
 
 ## 14. Briefing — Global Solution 2026.2
 
-**Status:** Pendente de preenchimento pelo responsável do grupo.
 
 ### Documento do briefing
 
-[Acesse o briefing do OZClima](docs/briefing.pdf)
 
-> O arquivo será anexado após a finalização do briefing.
+<img width="1582" height="511" alt="image" src="https://github.com/user-attachments/assets/30ea4db0-62c8-4d22-934f-36152d1ff065" />
+
+
